@@ -1,0 +1,19 @@
+<mxfile modified="2022-05-02T20:29:39.600Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="VhkiKEUNK84ZbPyxWhsr" compressed="false" version="17.5.0" type="google">
+  <diagram name="PRIVACY VIEW" id="orBWyBzSigZB8T2NzGUd">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="s7juAGEdi4tiUS1Llze0-0" />
+        <mxCell id="s7juAGEdi4tiUS1Llze0-1" value="Title" parent="s7juAGEdi4tiUS1Llze0-0" />
+        <mxCell id="s7juAGEdi4tiUS1Llze0-3" value="Privacy View" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;opacity=30;" vertex="1" parent="s7juAGEdi4tiUS1Llze0-1">
+          <mxGeometry x="160" y="200" width="480" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="vp6WYp5uzsU23yDP3rl8-0" value="About" parent="s7juAGEdi4tiUS1Llze0-0" />
+        <UserObject label="" tooltip="ABOUT&#xa;&#xa;Mainstream development has focused on various aspects over the previous years:&#xa;&#xa;&#xa;&#xa;- Code Quality&#xa;&#xa;- Test Coverage&#xa;&#xa;- Deverlopment Approach&#xa;&#xa;- Security&#xa;&#xa;&#xa;&#xa;The focus is now on Privacy.&#xa;&#xa;" id="-E9x6M1gccOqT0154pUw-0">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699014-icon-28-information-128.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#505050;dashPattern=1 1;" vertex="1" parent="vp6WYp5uzsU23yDP3rl8-0">
+            <mxGeometry x="620" y="380" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,31 @@
+<mxfile modified="2022-05-03T07:32:29.613Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="hdLlUlHpxolFqZBcq7q1" compressed="false" version="17.5.0" type="google">
+  <diagram id="Pqqyhjjf1qJyDXPPMRDn" name="Information/Classification/Types">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Wcknbk3GZ0b5zgMWEFJH-0" />
+        <mxCell id="Wcknbk3GZ0b5zgMWEFJH-1" parent="Wcknbk3GZ0b5zgMWEFJH-0" />
+        <mxCell id="Wcknbk3GZ0b5zgMWEFJH-2" value="Expectations (User Stories,&amp;nbsp; Requirements)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Wcknbk3GZ0b5zgMWEFJH-1">
+          <mxGeometry x="120" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wcknbk3GZ0b5zgMWEFJH-3" value="Models (Entities)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Wcknbk3GZ0b5zgMWEFJH-1">
+          <mxGeometry x="310" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wcknbk3GZ0b5zgMWEFJH-4" value="Messages" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Wcknbk3GZ0b5zgMWEFJH-1">
+          <mxGeometry x="400" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wcknbk3GZ0b5zgMWEFJH-5" value="Validation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Wcknbk3GZ0b5zgMWEFJH-1">
+          <mxGeometry x="500" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wcknbk3GZ0b5zgMWEFJH-6" value="Documentation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Wcknbk3GZ0b5zgMWEFJH-1">
+          <mxGeometry x="600" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ujYNcpe3rjXzj_1XCcdx-0" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Diagram: Delivery - Information - Key Types&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;" vertex="1" parent="Wcknbk3GZ0b5zgMWEFJH-1">
+          <mxGeometry x="120" y="220" width="520" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ujYNcpe3rjXzj_1XCcdx-1" value="Instructions&lt;br&gt;(Design)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Wcknbk3GZ0b5zgMWEFJH-1">
+          <mxGeometry x="210" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
